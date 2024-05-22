@@ -23,17 +23,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.3538452"
-     inkscape:cx="419.91506"
-     inkscape:cy="307.27294"
-     inkscape:window-width="1342"
-     inkscape:window-height="719"
+     inkscape:zoom="0.47865656"
+     inkscape:cx="514.98302"
+     inkscape:cy="476.33318"
+     inkscape:window-width="1256"
+     inkscape:window-height="671"
      inkscape:window-x="10"
      inkscape:window-y="10"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:export-bgcolor="#f4eed7ff">
+     inkscape:export-bgcolor="#f4eed700">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -71,6 +71,24 @@
        width="908.31653"
        height="357.24896"
        id="rect5-3-8-0-1-9" />
+    <rect
+       x="393.56992"
+       y="523.67645"
+       width="908.31653"
+       height="357.24896"
+       id="rect5-3-8-0-6-2" />
+    <rect
+       x="393.56992"
+       y="523.67645"
+       width="908.31653"
+       height="357.24896"
+       id="rect5-3-8-0-1-9-7" />
+    <rect
+       x="393.56992"
+       y="523.67645"
+       width="908.31653"
+       height="357.24896"
+       id="rect5-3-8-9-3" />
   </defs>
   <g
      inkscape:label="Ebene 1"
@@ -82,9 +100,9 @@
        cx="104.27083"
        cy="161.61394"
        r="17.5"
-       inkscape:export-filename="logo_f3A_square.png"
-       inkscape:export-xdpi="150"
-       inkscape:export-ydpi="150" />
+       inkscape:export-filename="logo_f3A_square_600dpi.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <rect
        style="fill:#f4eed7;fill-opacity:1;stroke:none;stroke-width:0.207601"
        id="rect4-9-0"
@@ -93,7 +111,7 @@
        x="74.083328"
        y="74.083336"
        ry="0.086127982"
-       inkscape:export-filename="logo_f3A_rect.png"
+       inkscape:export-filename="logo_f3A_rect_600dpi.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
     <g
@@ -108,9 +126,9 @@
            style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3-8-9);display:inline"><tspan
              x="393.57031"
              y="589.73831"
-             id="tspan2"><tspan
+             id="tspan8"><tspan
                style="font-weight:bold;font-size:34.6667px;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold'"
-               id="tspan1">futur</tspan></tspan></text>
+               id="tspan7">futur</tspan></tspan></text>
         <g
            id="g1"
            transform="translate(-4.8858297,28.316159)">
@@ -172,6 +190,84 @@
       </g>
     </g>
     <g
+       id="g4-9"
+       transform="translate(55.774912,9.9914129)"
+       inkscape:export-filename="logo_f3A_square_noBG_600dpi.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g3-2">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-9.3912935,18.686556)"
+           id="text4-9-8-0-2"
+           style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3-8-9-3);display:inline"><tspan
+             x="393.57031"
+             y="589.73831"
+             id="tspan10"><tspan
+               style="font-weight:bold;font-size:34.6667px;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold'"
+               id="tspan9">futur</tspan></tspan></text>
+        <g
+           id="g2-7"
+           transform="translate(-4.8858297,28.316159)">
+          <path
+             sodipodi:type="star"
+             style="fill:#090088;fill-opacity:1;stroke-width:0.277"
+             id="path1-3"
+             inkscape:flatsided="true"
+             sodipodi:sides="3"
+             sodipodi:cx="158.75"
+             sodipodi:cy="137.58333"
+             sodipodi:r1="8.8743944"
+             sodipodi:r2="4.4371972"
+             sodipodi:arg1="0.52359878"
+             sodipodi:arg2="1.5707963"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 166.43545,142.02053 -15.3709,0 7.68545,-13.3116 z"
+             inkscape:transform-center-x="5.6186555e-06"
+             inkscape:transform-center-y="-3.1783371"
+             transform="matrix(1.2361018,0,0,1.432586,-86.345331,-65.873278)" />
+          <path
+             sodipodi:type="star"
+             style="fill:#e4007c;fill-opacity:1;stroke-width:0.277"
+             id="path1-2-61"
+             inkscape:flatsided="true"
+             sodipodi:sides="3"
+             sodipodi:cx="158.75"
+             sodipodi:cy="137.58333"
+             sodipodi:r1="8.8743944"
+             sodipodi:r2="4.4371972"
+             sodipodi:arg1="0.52359878"
+             sodipodi:arg2="1.5707963"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 166.43545,142.02053 -15.3709,0 7.68545,-13.3116 z"
+             inkscape:transform-center-x="4.5316199e-06"
+             inkscape:transform-center-y="-2.1858595"
+             transform="matrix(0.85011276,0,0,0.98524219,-25.069571,-2.3412759)" />
+          <path
+             sodipodi:type="star"
+             style="fill:#ffbd39;fill-opacity:1;stroke-width:0.277"
+             id="path1-2-7-29"
+             inkscape:flatsided="true"
+             sodipodi:sides="3"
+             sodipodi:cx="158.75"
+             sodipodi:cy="137.58333"
+             sodipodi:r1="8.8743944"
+             sodipodi:r2="4.4371972"
+             sodipodi:arg1="0.52359878"
+             sodipodi:arg2="1.5707963"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m 166.43545,142.02053 -15.3709,0 7.68545,-13.3116 z"
+             inkscape:transform-center-x="2.3070047e-06"
+             inkscape:transform-center-y="-1.2997728"
+             transform="matrix(0.50550059,0,0,0.58585229,29.637611,54.380288)" />
+        </g>
+      </g>
+    </g>
+    <g
        id="g5"
        transform="translate(-0.5481685,-0.09112129)">
       <text
@@ -181,9 +277,9 @@
          style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3-8-0-6);display:inline"><tspan
            x="393.57031"
            y="597.53042"
-           id="tspan4"><tspan
+           id="tspan12"><tspan
              style="font-weight:bold;font-size:85.3333px;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold'"
-             id="tspan3">futur</tspan></tspan></text>
+             id="tspan11">futur</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-23.245843,-52.58718)"
@@ -191,9 +287,9 @@
          style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3-8-0-1-9);display:inline"><tspan
            x="393.57031"
            y="589.73831"
-           id="tspan6"><tspan
+           id="tspan14"><tspan
              style="font-weight:bold;font-size:16px;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold'"
-             id="tspan5">f   u   t   u   r   -   a   a   a   .   c   o   m</tspan></tspan></text>
+             id="tspan13">f   u   t   u   r   -   a   a   a   .   c   o   m</tspan></tspan></text>
       <g
          id="g2"
          transform="matrix(0.95544108,0,0,0.95544108,38.901031,-32.74311)">
@@ -237,6 +333,91 @@
            sodipodi:type="star"
            style="fill:#ffbd39;fill-opacity:1;stroke-width:0.277"
            id="path1-2-7-2"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="158.75"
+           sodipodi:cy="137.58333"
+           sodipodi:r1="8.8743944"
+           sodipodi:r2="4.4371972"
+           sodipodi:arg1="0.52359878"
+           sodipodi:arg2="1.5707963"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 166.43545,142.02053 -15.3709,0 7.68545,-13.3116 z"
+           inkscape:transform-center-x="2.3070047e-06"
+           inkscape:transform-center-y="-1.2997728"
+           transform="matrix(0.50550059,0,0,0.58585229,29.637611,54.380288)" />
+      </g>
+    </g>
+    <g
+       id="g5-3"
+       transform="translate(47.695083,38.120193)"
+       inkscape:export-filename="logo_f3A_rect_transparent_600dpi.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-23.576043,-59.63528)"
+         id="text4-9-8-3-6-6"
+         style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3-8-0-6-2);display:inline"><tspan
+           x="393.57031"
+           y="597.53042"
+           id="tspan16"><tspan
+             style="font-weight:bold;font-size:85.3333px;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold'"
+             id="tspan15">futur</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-23.245843,-52.58718)"
+         id="text4-9-8-3-5-6-2"
+         style="font-size:74.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5-3-8-0-1-9-7);display:inline"><tspan
+           x="393.57031"
+           y="589.73831"
+           id="tspan18"><tspan
+             style="font-weight:bold;font-size:16px;font-family:'Jost*';-inkscape-font-specification:'Jost*, Bold'"
+             id="tspan17">f   u   t   u   r   -   a   a   a   .   c   o   m</tspan></tspan></text>
+      <g
+         id="g2-8"
+         transform="matrix(0.95544108,0,0,0.95544108,38.901031,-32.74311)">
+        <path
+           sodipodi:type="star"
+           style="fill:#090088;fill-opacity:1;stroke-width:0.277"
+           id="path1-0-7"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="158.75"
+           sodipodi:cy="137.58333"
+           sodipodi:r1="8.8743944"
+           sodipodi:r2="4.4371972"
+           sodipodi:arg1="0.52359878"
+           sodipodi:arg2="1.5707963"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 166.43545,142.02053 -15.3709,0 7.68545,-13.3116 z"
+           inkscape:transform-center-x="5.6186555e-06"
+           inkscape:transform-center-y="-3.1783371"
+           transform="matrix(1.2361018,0,0,1.432586,-86.345331,-65.873278)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#e4007c;fill-opacity:1;stroke-width:0.277"
+           id="path1-2-6-9"
+           inkscape:flatsided="true"
+           sodipodi:sides="3"
+           sodipodi:cx="158.75"
+           sodipodi:cy="137.58333"
+           sodipodi:r1="8.8743944"
+           sodipodi:r2="4.4371972"
+           sodipodi:arg1="0.52359878"
+           sodipodi:arg2="1.5707963"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 166.43545,142.02053 -15.3709,0 7.68545,-13.3116 z"
+           inkscape:transform-center-x="4.5316199e-06"
+           inkscape:transform-center-y="-2.1858595"
+           transform="matrix(0.85011276,0,0,0.98524219,-25.069571,-2.3412759)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ffbd39;fill-opacity:1;stroke-width:0.277"
+           id="path1-2-7-2-2"
            inkscape:flatsided="true"
            sodipodi:sides="3"
            sodipodi:cx="158.75"
